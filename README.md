@@ -1,2 +1,3 @@
 # praticas_JavaScript_Softex
-praticas_usandoJS
+
+Exercício criado em sala de aula para verificar se uma pessoa é maior ou menor de idade.
